@@ -1,6 +1,6 @@
 # Data-Analysis-and-Visualization
 
-This is to explore, analyse and visualize the datasets available of :<br><br>
+This is to explore, analyse and visualize the datasets available of :<br>
 
 1) Netflix Data available from the years of 2008-2021 based on Movies and TV Shows available on the platform.<br>
 So we analysed and observed the perceived dataset while drawing various conclusions and visualizing the results from different plots like the Bar Graph, Pie Chart, Heatmap, KDE Plot, Stem Plot and Bar Graphs in the Pyramid Plot. This made use of various libraries and the end graphs were displayed on the Dashboard altogether! <br>
